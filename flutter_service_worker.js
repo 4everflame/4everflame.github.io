@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "cf07c43af7c61be68dd654386741c74e",
+  "assets/AssetManifest.json": "497a41c0d028e3279d19a8809db1eb7f",
 "assets/assets/china.png": "7dbf25cbd91c439f66c6de45ee498320",
 "assets/assets/egypt.png": "a099e084c6fcccfa4032d58d17d63f27",
 "assets/assets/germany.png": "d3b68fc65e16a603702c8324f6196a7f",
@@ -11,11 +11,9 @@ const RESOURCES = {
 "assets/assets/indonesia.png": "cb1239cc98b52f637175e17547c4c520",
 "assets/assets/kenya.png": "ec31c84f040e6a6a712081c3e38df4ac",
 "assets/assets/mgl.png": "cca9231d039c12aefea25a80c14f7dc1",
-"assets/assets/night.jpg": "65630a0453eabc0ca09dd87ccba4e4c6",
+"assets/assets/night.png": "99f66b03e9ee3541ef0db435dca87271",
 "assets/assets/russia.png": "4d0ca491af6cc6339ff39a91e74cef9f",
 "assets/assets/south_korea.png": "02ed96f645c463627f9bdfe1943adbba",
-"assets/assets/udur.jpg": "e315558996cc725d68ef8143ab2b94ca",
-"assets/assets/udur.png": "98c1011565e79b171911fc9b2eb4ddde",
 "assets/assets/uk.png": "e316c8551496904bf2da00f0b4178da3",
 "assets/assets/usa.png": "16ebcdfdfefbbecc4bada8f40f19f99f",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -25,9 +23,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "f0396c7a2db6ca7328dd211642da446a",
-"/": "f0396c7a2db6ca7328dd211642da446a",
-"main.dart.js": "8bec74d636c514812e7ec46536b63172",
+"index.html": "ada1efc9a5fbb3a6b7c4109fdf22de85",
+"/": "ada1efc9a5fbb3a6b7c4109fdf22de85",
+"main.dart.js": "b2d94c91054a309fb4b296566661b33a",
 "manifest.json": "79b22b0512b2d22b2a7b21846251368e",
 "version.json": "a9851116ebcede990c03f07b539c7ace"
 };
